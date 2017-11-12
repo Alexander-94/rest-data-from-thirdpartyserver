@@ -1,4 +1,4 @@
-# rest-data-from-thirdpartyserver-
+# rest-data-from-thirdpartyserver
 Project gets data from hird party server: http://www.watchstation.com
 
 Application represents a simple REST web service that fetchs data from third party server. Data is stored in MySQL.
